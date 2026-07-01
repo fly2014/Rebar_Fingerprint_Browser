@@ -1,5 +1,5 @@
 # Rebar_Browser
-钢筋指纹浏览器（Rebar Fingerprint Browser）
+[钢筋浏览器（Rebar Fingerprint Browser）](http://gjllq.com/)
 
 一款用于多账号管理与浏览器环境隔离的桌面工具，适用于需要多实例登录、独立环境运行和自动化操作的场景。
 
