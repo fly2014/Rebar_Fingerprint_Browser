@@ -38,3 +38,5 @@ LocalStorage 独立
 💻 支持系统
 Windows 7 / Windows 10 / Windows 11
 基于系统 Chrome / Edge 内核运行
+releases下载
+https://github.com/fly2014/Rebar_Fingerprint_Browser/releases
