@@ -1,12 +1,12 @@
-Rebar_Browser
+Rebar_Fingerprint_Browser
 
-[钢筋浏览器（Rebar Fingerprint Browser）](https://in.gjllq.com/)
+[Rebar Fingerprint Browser（Rebar Fingerprint Browser）](https://in.gjllq.com/)
 
 मल्टी-एकाउंट मैनेजमेंट और ब्राउज़र एनवायरनमेंट आइसोलेशन के लिए डेस्कटॉप टूल।
 
 🌐 परिचय
 
-Rebar Browser Windows पर Chromium (Chrome / Edge) इंजन का उपयोग करके कई ब्राउज़र इंस्टेंस चलाने की सुविधा देता है।
+Rebar Fingerprint Browser Windows पर Chromium (Chrome / Edge) इंजन का उपयोग करके कई ब्राउज़र इंस्टेंस चलाने की सुविधा देता है।
 
 मुख्य उपयोग:
 
