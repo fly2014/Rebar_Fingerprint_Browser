@@ -1,6 +1,6 @@
 Rebar_Browser
 
-[钢筋浏览器（Rebar Fingerprint Browser）](https://gjllq.com/)
+[钢筋浏览器（Rebar Fingerprint Browser）](https://ru.gjllq.com/)
 
 Настольный инструмент для управления множеством аккаунтов и изоляции браузерных сред, предназначенный для многосессионной работы и автоматизации.
 
