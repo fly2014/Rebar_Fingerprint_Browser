@@ -1,7 +1,7 @@
 🇺🇸 English
 Rebar_Browser
 
-钢筋浏览器（Rebar Fingerprint Browser）
+[钢筋浏览器（Rebar Fingerprint Browser）](https://en.gjllq.com/)
 
 A desktop tool for multi-account management and browser environment isolation, designed for scenarios requiring multiple instance logins, independent environments, and automation workflows.
 
