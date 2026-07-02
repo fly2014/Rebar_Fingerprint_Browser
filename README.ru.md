@@ -1,12 +1,12 @@
 Rebar_Browser
 
-[钢筋浏览器（Rebar Fingerprint Browser）](https://ru.gjllq.com/)
+[Rebar Fingerprint Browser（Rebar Fingerprint Browser）](https://ru.gjllq.com/)
 
 Настольный инструмент для управления множеством аккаунтов и изоляции браузерных сред, предназначенный для многосессионной работы и автоматизации.
 
 🌐 Описание
 
-Rebar Browser позволяет управлять несколькими экземплярами браузера в Windows, используя движок Chromium (Chrome / Edge).
+Rebar Fingerprint Browser позволяет управлять несколькими экземплярами браузера в Windows, используя движок Chromium (Chrome / Edge).
 
 Основные сценарии:
 
