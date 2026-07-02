@@ -1,12 +1,12 @@
 Rebar_Browser
 
-[钢筋浏览器（Rebar Fingerprint Browser）](https://jp.gjllq.com/)
+[Rebar Fingerprint Browser（Rebar Fingerprint Browser）](https://jp.gjllq.com/)
 
 マルチアカウント管理とブラウザ環境分離のためのデスクトップツールで、複数インスタンスログインや自動化操作に対応しています。
 
 🌐 概要
 
-Rebar Browser は Windows 上で複数ブラウザインスタンスを管理できるツールで、Chromium（Chrome / Edge）エンジンを利用しています。
+Rebar Fingerprint Browser は Windows 上で複数ブラウザインスタンスを管理できるツールで、Chromium（Chrome / Edge）エンジンを利用しています。
 
 主な用途：
 
