@@ -1,6 +1,6 @@
 Rebar_Browser
 
-[钢筋浏览器（Rebar Fingerprint Browser）](https://gjllq.com/)
+[钢筋浏览器（Rebar Fingerprint Browser）](https://tw.gjllq.com/)
 
 一款用於多帳號管理與瀏覽器環境隔離的桌面工具。
 
