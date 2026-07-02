@@ -1,6 +1,6 @@
 Rebar_Browser
 
-钢筋浏览器（Rebar Fingerprint Browser）
+[钢筋浏览器（Rebar Fingerprint Browser）](https://jp.gjllq.com/)
 
 マルチアカウント管理とブラウザ環境分離のためのデスクトップツールで、複数インスタンスログインや自動化操作に対応しています。
 
