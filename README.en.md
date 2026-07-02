@@ -1,13 +1,13 @@
 🇺🇸 English
-Rebar_Browser
+Rebar_Fingerprint_Browser
 
-[钢筋浏览器（Rebar Fingerprint Browser）](https://en.gjllq.com/)
+[Rebar Fingerprint Browser（Rebar Fingerprint Browser）](https://en.gjllq.com/)
 
 A desktop tool for multi-account management and browser environment isolation, designed for scenarios requiring multiple instance logins, independent environments, and automation workflows.
 
 🌐 Project Overview
 
-Rebar Browser provides multi-instance browser management capabilities on Windows, using the built-in Chromium engine (Chrome / Edge).
+Rebar Fingerprint Browser provides multi-instance browser management capabilities on Windows, using the built-in Chromium engine (Chrome / Edge).
 
 It is mainly used for:
 
