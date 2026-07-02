@@ -1,12 +1,12 @@
 Rebar_Browser
 
-[钢筋浏览器（Rebar Fingerprint Browser）](https://tw.gjllq.com/)
+[鋼筋指紋瀏覽器（Rebar Fingerprint Browser）](https://tw.gjllq.com/)
 
-一款用於多帳號管理與瀏覽器環境隔離的桌面工具。
+鋼筋指紋瀏覽器 一款用於多帳號管理與瀏覽器環境隔離的桌面工具。
 
 🌐 專案簡介
 
-Rebar Browser 支援在 Windows 上運行多瀏覽器實例，基於 Chromium（Chrome / Edge）核心。
+Rebar Fingerprint Browser 支援在 Windows 上運行多瀏覽器實例，基於 Chromium（Chrome / Edge）核心。
 
 主要用途：
 
