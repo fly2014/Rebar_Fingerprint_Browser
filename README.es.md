@@ -1,12 +1,12 @@
 Rebar_Browser
 
-[钢筋浏览器（Rebar Fingerprint Browser）](https://es.gjllq.com/)
+[Rebar Fingerprint Browser （Rebar Fingerprint Browser）](https://es.gjllq.com/)
 
 Herramienta de escritorio para gestión de múltiples cuentas y aislamiento de entornos de navegador.
 
 🌐 Descripción
 
-Rebar Browser permite gestionar múltiples instancias del navegador en Windows usando Chromium (Chrome / Edge).
+Rebar Fingerprint Browser permite gestionar múltiples instancias del navegador en Windows usando Chromium (Chrome / Edge).
 
 Uso principal:
 
